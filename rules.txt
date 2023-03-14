@@ -1,5 +1,5 @@
   proxy-groups:
-  - name: "Auto"
+  - name: "auto"
     type: url-test
     proxies:
       - ss1
